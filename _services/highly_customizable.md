@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Highly customizable
+title: Plastics
 icon: /assets/img/icons/air-freshener-solid.svg
 image: /assets/img/services/03.jpg
-description: Highly customizable parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: UPVC facia, Soffits & guttering, Window boards, Trims, Above and underground drainage, Cladding, Sealant and fixings, Fibre glass and more...
 ---
 
 <div class="row">

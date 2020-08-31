@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Official Support
+title: Fencing
 icon: /assets/img/icons/american-sign-language-interpreting-solid.svg
 image: /assets/img/services/02.jpg
-description: Dedicated support quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: Fencing panels, Concrete posts, Gravel boards, All sizes and varieties
 ---
 
 <div class="row">

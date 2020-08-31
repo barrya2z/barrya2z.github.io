@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Aggregates
+title: Plumbing
 icon: /assets/img/icons/address-card-solid.svg
 image: /assets/img/services/05.jpg
-description: Building sand, plastering sand, levelling sand, Type 1 / MOT, Ballast sand, tarmac, Multi finish, bonding coat, browning, cement, plasterboard adhesive, ready-mixed concrete
+description: All copper and plastic fittings and tubes and more...
 ---
 
 <div class="row">

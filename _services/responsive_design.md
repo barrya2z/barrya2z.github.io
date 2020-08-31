@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Responsive design
+title: Roofing
 icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/03.jpg
-description: Responsive design parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: Felts, lead, flashing, fibre glass, Roof Sealants, Bitumen block and more...
 ---
 
 <div class="row">

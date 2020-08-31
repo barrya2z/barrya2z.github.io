@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Faster More  Then Speed
+title: Bricks and Blocks
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
-description: Condimentum consectetur quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: Engineering and block paving bricks, Concrete and foam blocks, Solid and hollow, All colours, and more...
 ---
 
 <div class="row">

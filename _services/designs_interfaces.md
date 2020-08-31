@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Designs & interfaces
+title: Timber
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete.
+description: Treated and untreated timbers, Joists, Plywood, MDF boards, Skirting boards, Architraves, Doors, Door frames, Battens, Wood floor boards, Groove wood, Decking, and more...
 ---
 
 <div class="row">
